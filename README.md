@@ -6,7 +6,9 @@ The lecturer is  [Dr. Ian McLoughlin](https://ianmcloughlin.github.io/).
 Racket is a general purpose, multi-paradigm programming language in the Lisp-Scheme family. One of its design goals is to serve as a platform for language creation, design, and implementation. The language is used in a variety of contexts such as scripting, general-purpose programming, computer science education, and research.
 
 ## CA Worksheet:
-
+<p align="center">
+  <img width="782" height="858" src="https://github.com/RicardsGraudins/Theory-of-Algorithms/blob/master/Resources/worksheet.png">
+</p>
 
 ## How to run:
 1. Download the Racket IDE [here](https://download.racket-lang.org/).
