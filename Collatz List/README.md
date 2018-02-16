@@ -1,6 +1,9 @@
 ## Collatz-List
  Write, from scratch, a function in Racket that takes a positive integer n0 as input and returns a list by recursively applying the following operation, starting with the input number. 
  
+<p align="center">
+  <img width="368" height="63" src="https://github.com/RicardsGraudins/Theory-of-Algorithms/blob/master/Resources/Collatz-formula.png">
+</p>
  
  End the recursion when (or if) the number becomes 1. Call the function collatz-list. So, collatz-list should return a list whose ﬁrst element is n0, the second element is n1, and so on. For example: 
  
