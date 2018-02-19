@@ -23,5 +23,6 @@ public class runner {
 			System.out.println(num + " is a prime number.");
 		}//else
 
+		scanner.close();
 	}//main
 }//runner
