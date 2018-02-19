@@ -16,7 +16,7 @@ public class runner {
 		
 		//keep going until the num is 1
 		while(num != 1){
-			//check if num is even, if it divide by 2
+			//check if num is even, if it is divide by 2
 			if(num % 2 == 0){
 				num = num / 2;
 				//add to list
