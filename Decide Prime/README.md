@@ -11,5 +11,19 @@ While a brute-force search is simple to implement, and will always find a soluti
 ## What is a Prime Number:
 A prime number is a number divisible only by itself and 1 e.g. 2, 3, 5, 7, 11 etc.
 
+## Solution:
+```scheme
+(define (Decide-Prime num)
+  (define (non-divisible-by n d)
+    (cond
+      ((= d 1) #t)
+      (else (if(= (remainder n d) 0)
+               #f
+               (non-divisible-by n (- d 1))))))
+  (if (= num 1)
+      #t
+      (non-divisible-by num(- num 1))))
+```
+
 ## References:
 * [Brute-Force Search](https://en.wikipedia.org/wiki/Brute-force_search)
