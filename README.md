@@ -10,7 +10,10 @@ Racket is a general purpose, multi-paradigm programming language in the Lisp-Sch
 
 ## CA Worksheet:
 <p align="center">
-  <img width="782" height="858" src="https://github.com/RicardsGraudins/Theory-of-Algorithms/blob/master/Resources/worksheet.png">
+  <img width="598" height="844" src="https://github.com/RicardsGraudins/Theory-of-Algorithms/blob/master/Resources/worksheet_1.png">
+</p>
+<p align="center">
+  <img width="606" height="848" src="https://github.com/RicardsGraudins/Theory-of-Algorithms/blob/master/Resources/worksheet_2.png">
 </p>
 
 ## Java Solutions:
