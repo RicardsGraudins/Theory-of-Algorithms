@@ -21,5 +21,18 @@
 
 The conjecture is named after [Lothar Collatz](https://en.wikipedia.org/wiki/Lothar_Collatz), who introduced the idea in 1937.
  
+ ## Solution:
+ ```scheme
+(define (collatz num)
+  (if (even? num)
+      (/ num 2)
+      (+ 1 (* num 3))))
+
+(define (collatz-list num)
+  (cons num (if (= (- num 1) 0)
+                empty
+                (collatz-list(collatz num)))))
+ ```
+ 
  ## References:
  * [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
