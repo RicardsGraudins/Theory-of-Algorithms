@@ -9,6 +9,10 @@ For example:
 ## Majority Function (Maj):
 Majority function (sometimes quorum function) is a threshold function that produces a 1 if and only if the majority of the inputs are 1. Otherwise, the output is 0. This function is only defined for three or more odd inputs. The majority function can be found in various applications such as adders, subtractors, hash functions, and Muller C-element.
 
+<p align="center">
+  <img width="359" height="74" src="https://github.com/RicardsGraudins/Theory-of-Algorithms/blob/master/Resources/Maj.PNG">
+</p>
+
 ## Lambda Function
 A lambda expression creates a function. In the simplest case, a lambda expression has the form:
 
