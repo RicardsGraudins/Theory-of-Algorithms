@@ -17,7 +17,10 @@ Racket is a general purpose, multi-paradigm programming language in the Lisp-Sch
 </p>
 
 ## Java Solutions:
-Some of the exercises will have an additional file called `runner.java ` which is essentially the exercise solution coded up using Java. I decided to code up the solution using a programming language that I am familiar with before attempting the task using Racket in order to get a more refined idea of the exercise and afterward to compare the two solutions in order to get a better understanding of functional programming.
+All of the exercises will have an additional file called `runner.java ` which is essentially the exercise solution coded up using Java. I decided to code up the solution using a programming language that I am familiar with before attempting the task using Racket in order to get a more refined idea of the exercise and afterward to compare the two solutions in order to get a better understanding of functional programming.
+
+## Overall Conclusion:
+Since Racket was my first functional programming language, it was challenging enough to get into and some parts proved tricky e.g. getting the hang of lists/pairs. The Racket references at the bottom of this readme were extremely useful and informative while learning Racket and after tackling all of these exercises one after the other, in my opinion this module provided an ample introduction to the language.
 
 ## How to run:
 1. Download the Racket IDE [here](https://download.racket-lang.org/).
